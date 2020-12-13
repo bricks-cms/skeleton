@@ -1,0 +1,35 @@
+{
+  "name": "sumedia-bricks/skeleton",
+  "version": "0.1.0",
+  "type": "project",
+  "keywords": [
+    "framework",
+    "bootstrap",
+    "php",
+    "cmf",
+    "cms",
+    "mvc",
+    "bricks"
+  ],
+  "description": "Bricks",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Sven Ullmann",
+      "email": "kontakt@sumedia-webdesign.de"
+    }
+  ],
+  "require": {
+    "bricks-cmf/config-service": "^0.1.0",
+    "bricks-framework/bootstrap": "^0.1.0",
+    "bricks-cmf/namespaced-service": "^0.1.0",
+    "bricks-cmf/lazyloader-service": "^0.1.0",
+    "bricks-cmf/application": "^0.1.0",
+    "bricks-cmf/di-service": "^0.1.0",
+    "bricks-cmf/factory-service": "^0.1.0"
+  },
+  "require-dev": {
+    "phpunit/phpunit": "^9"
+  }
+}
