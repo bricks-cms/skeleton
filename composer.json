@@ -13,7 +13,6 @@
   ],
   "description": "Bricks",
   "minimum-stability": "dev",
-  "prefer-stable": true,
   "license": "proprietary",
   "authors": [
     {
