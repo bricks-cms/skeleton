@@ -22,13 +22,13 @@
     }
   ],
   "require": {
-    "bricks-cmf/config-service": "^0.1.0",
-    "bricks-framework/bootstrap": "^0.1.0",
-    "bricks-cmf/namespaced-service": "^0.1.0",
-    "bricks-cmf/lazyloader-service": "^0.1.0",
-    "bricks-cmf/application": "^0.1.0",
-    "bricks-cmf/di-service": "^0.1.0",
-    "bricks-cmf/factory-service": "^0.1.0"
+    "bricks-cmf/config-service": "^0.1.0-dev",
+    "bricks-framework/bootstrap": "^0.1.0-dev",
+    "bricks-cmf/namespaced-service": "^0.1.0-dev",
+    "bricks-cmf/lazyloader-service": "^0.1.0-dev",
+    "bricks-cmf/application": "^0.1.0-dev",
+    "bricks-cmf/di-service": "^0.1.0-dev",
+    "bricks-cmf/factory-service": "^0.1.0-dev"
   },
   "require-dev": {
     "phpunit/phpunit": "^9"
